@@ -25,7 +25,7 @@ CSS3 (Flexbox, Grid, Animations, Positioning)
 
 Getting Started
 
-1. Clone the repository:
+1. Clone the repository:[ https://deepa-1505.github.io/Udemy-clone-updates/]
 
 
 
